@@ -1,3 +1,4 @@
 Simple header
 -------------
 Example text file.
+konflikt
